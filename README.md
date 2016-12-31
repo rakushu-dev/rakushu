@@ -15,7 +15,7 @@ $ /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/inst
 ### git
 
 ```bash
-brew install git
+$ brew install git
 ```
 
 ### Docker
