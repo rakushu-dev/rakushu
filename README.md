@@ -2,6 +2,22 @@
 
 ## Installation
 
+### RubyGems
+
+https://rubygems.org/pages/download
+
+### Homebrew
+
+```bash
+$ /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+```
+
+### git
+
+```bash
+brew install git
+```
+
 ### Docker
 
 Install the two packages below.
