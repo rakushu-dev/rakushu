@@ -41,6 +41,8 @@ $ brew install rsync
 ```bash
 $ git clone git@github.com:rakushu-dev/rakushu.git
 $ cd rakushu
+$ docker-compose build
+$ docker-compose run web rails db:create
 $ docker-compose up
 ```
 
